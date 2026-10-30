@@ -1,1 +1,1 @@
-This is a sample file. Text is okay.[D[D[D[D[D[D[D[D[D[D[D[D[D[,[C[C[C[[[Ct[C sample file, text is okay.
+This is a sample file. Text is okay.[D[D[D[D[D[D[D[D[D[D[D[D[D[,[C[C[C[[[Ct[C sample file, text is okay. This is my first Git modification.
